@@ -20,7 +20,9 @@ The SDK will be available through Swift Package Manager and CocoaPods.
 
 ### Swift Package Manager
 
-In Xcode, select **File -> Add Package Dependencies** and add the SEON Stream SDK package repository URL once it is published.
+In Xcode, select **File → Add Package Dependencies…** and enter the package URL:
+
+`https://github.com/seontechnologies/seon-ios-stream-sdk-swift-package`
 
 Select version `1.0.0` or later.
 
@@ -29,7 +31,7 @@ Select version `1.0.0` or later.
 Add the SDK to your `Podfile` once the pod name is published:
 
 ```ruby
-pod '<POD_NAME>', '1.0.0'
+pod 'SeonStreamSDK', '1.0.0'
 ```
 
 Then run:
