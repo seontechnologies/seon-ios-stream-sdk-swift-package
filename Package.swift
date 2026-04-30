@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "SeonStreamSDK",
-    platforms: [.iOS(.v13.0)],
+    platforms: [.iOS(.v13)],
     products: [
         .library(
             name: "SeonStreamSDK",
