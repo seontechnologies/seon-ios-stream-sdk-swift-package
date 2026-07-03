@@ -5,7 +5,7 @@ The SEON Stream SDK continuously collects behavioural signals from your iOS appl
 This library is also distributed as a Cocoapods package:
 https://github.com/seontechnologies/seon-ios-stream-sdk-public
 
-This SPM package includes `SeonStreamSDK v1.0.1`
+This SPM package includes `SeonStreamSDK v1.1.0`
 
 ## Installation
    
