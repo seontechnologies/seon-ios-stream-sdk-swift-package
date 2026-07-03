@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "SeonStreamSDK",
-    platforms: [.iOS(.v13)],
+    platforms: [.iOS(.v15)],
     products: [
         .library(
             name: "SeonStreamSDK",
@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SeonStreamSDK",
-            url: "https://cdn.seon.io/sdk/ios/SeonStreamSDK/1.0.1/SeonStreamSDK-1.0.1-xcfw.zip",
-            checksum: "b0e9c64a364a43a58aefb0d409426bba6d761462e7f964b9f1dc49f45fb3cb6b"
+            url: "https://cdn.seon.io/sdk/ios/SeonStreamSDK/1.1.0/SeonStreamSDK-1.1.0-xcfw.zip",
+            checksum: "970c6cf2c5f5fe3bb3d489be600b969741b1fd2ccbddaef3b90c969e5bc6df5b"
         )
     ]
 )
