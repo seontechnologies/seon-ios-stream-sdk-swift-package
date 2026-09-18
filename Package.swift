@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SeonStreamSDK",
-            url: "https://cdn.seon.io/sdk/ios/SeonStreamSDK/1.3.0/SeonStreamSDK-1.3.0-xcfw.zip",
-            checksum: "427a51ee7476de9a059f876d65732a43c79663d6c4d66b0583617b2369c4c71f"
+            url: "https://cdn.seon.io/sdk/ios/SeonStreamSDK/1.3.1/SeonStreamSDK-1.3.1-xcfw.zip",
+            checksum: "02179b54579b1d8c47d1e9dce15e9af92b49fe4c31bd2997528cf07959b52732"
         )
     ]
 )
